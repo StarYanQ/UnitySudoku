@@ -1678,6 +1678,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sudokuPanel: {fileID: 927934870}
   startGamePanel: {fileID: 532318001}
+  modalWindow: {fileID: 1820942391}
 --- !u!1 &126715693
 GameObject:
   m_ObjectHideFlags: 0
@@ -11108,7 +11109,6 @@ MonoBehaviour:
   btnSudokuTemplate: {fileID: 80815885}
   sudokuBtnContainer: {fileID: 1094467514}
   txtTimer: {fileID: 1975665901}
-  modalWindow: {fileID: 1820942391}
   sudokuBtnList: []
   btnReset: {fileID: 856582643}
   btnGetSolveTip: {fileID: 476188084}
