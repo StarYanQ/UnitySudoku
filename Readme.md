@@ -11,3 +11,7 @@
 Unity2021.3.21f1
 
 Visual Studio 2021
+
+# 下载
+
+[下载地址](https://github.com/StarYanQ/UnitySudoku/releases/latest)
